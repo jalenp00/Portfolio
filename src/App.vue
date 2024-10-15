@@ -12,7 +12,6 @@ import hero from './components/hero.vue';
 
 .app {
   font-family: 'VT323', monospace;
-  background-color: black;
   width: 100vw;
   height: 100vh;
   display: flex;
